@@ -1,0 +1,12 @@
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\api.exe
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\appsettings.Development.json
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\appsettings.json
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\api.dll
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\api.deps.json
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\api.runtimeconfig.json
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\api.pdb
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\Microsoft.OpenApi.dll
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Code\dotNetProjects\Hng-StageOne\api\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
